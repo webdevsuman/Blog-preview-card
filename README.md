@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/webdevsuman/Blog-preview-card](Github repository)
+- Solution URL: [https://github.com/webdevsuman/Blog-preview-card](https://github.com/webdevsuman/Blog-preview-card)
 - Live Site URL: [https://webdevsuman.github.io/Blog-preview-card](https://webdevsuman.github.io/Blog-preview-card)
 
 ## My process
