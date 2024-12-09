@@ -13,7 +13,7 @@
 
 body {
   background-color: hsl(47, 88%, 63%);
-  /* height: 100vh; */
+  height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -102,4 +102,10 @@ footer {
 footer a {
   color: hsl(29, 86%, 45%);
   text-decoration: none;
+}
+
+@media (max-width: 1000px) {
+  body {
+    height: auto;
+  }
 }
